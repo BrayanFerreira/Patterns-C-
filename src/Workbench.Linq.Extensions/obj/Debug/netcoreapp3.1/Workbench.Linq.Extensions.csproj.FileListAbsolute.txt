@@ -1,0 +1,11 @@
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.deps.json
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.dll
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\bin\Debug\netcoreapp3.1\Workbench.Comparer.pdb
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.csproj.CopyComplete
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.dll
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.Linq.Extensions\obj\Debug\netcoreapp3.1\Workbench.Linq.Extensions.pdb

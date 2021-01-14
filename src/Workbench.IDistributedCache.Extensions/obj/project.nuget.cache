@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q6nFVkxAjwoIW6BCEHVSp1/v9V9Xs41JVXUq4XnX2uCQGlSqmOjeXXtzu6Uc3n3ync0eWz0wr12aIs0bqZ40AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Downloads\\aplicando-design-patterns-na-pratica-com-CSharp-master\\Patterns C#\\src\\Workbench.IDistributedCache.Extensions\\Workbench.IDistributedCache.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.deps.json
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\bin\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.dll
+C:\Users\Pichau\Downloads\aplicando-design-patterns-na-pratica-com-CSharp-master\Patterns C#\src\Workbench.IFormatter.Extensions\obj\Debug\netstandard2.0\Workbench.IFormatter.Extensions.pdb

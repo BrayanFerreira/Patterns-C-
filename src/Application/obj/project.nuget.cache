@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zt/IDjKx9xUPZlxWpti8XO1HYjjlcqhiiVkvUdBUqcLKSWsOmYE4zAopkXBV9a3veWJCZv/MEyXOHrGdH314LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Downloads\\aplicando-design-patterns-na-pratica-com-CSharp-master\\Patterns C#\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

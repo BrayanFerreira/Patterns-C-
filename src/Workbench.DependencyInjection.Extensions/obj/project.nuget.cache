@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+lXim2qQDHg6ktT6qwNQDlkWGdSpsd10zYwjV9rUabql1GkPA4NOW3dyMHiCZFclUiminMHvE1xZEX0o7tBmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Downloads\\aplicando-design-patterns-na-pratica-com-CSharp-master\\Patterns C#\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
